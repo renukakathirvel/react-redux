@@ -15,7 +15,7 @@ HTML5
 CSS3
 Installation
 Clone the Repository
-git clone https://github.com/RAJKUMAR-35/Redux-Shopping-Cart
+git clone https://github.com/renukakathirvel/react-redux/tree/main/react-redux-task
 Navigate to the project directory:
 cd Redux-Shopping-Cart
 cd react-shopping-cart:
